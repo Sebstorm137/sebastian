@@ -1,0 +1,2336 @@
+/*ESTRATEGIA Y CERTIFICACIONES*/
+/*Estilos Móvil*/
+body {
+    margin: 0%;
+}
+
+.imp-empresa-b {
+    text-align: center;
+    padding-bottom: 50px;
+    height: 420px;
+}
+
+.fondo-circular {
+    height: 200px;
+    width: 200px;
+    background-color: #FFF;
+    border-radius: 50%;
+    margin-left: 28%;
+    border: 12px solid #961212;
+}
+
+.que-imp h2 {
+    font-size: 20px;
+    margin-top: 35%;
+}
+
+.c-m {
+    display: flex;
+    margin-left: 8%;
+    margin-right: 8%;
+
+}
+
+.c-m h4 {
+    font-size: 40px;
+    font-weight: 700;
+    margin-top: 20%;
+}
+
+.c-m p {
+    margin-top: 50%;
+    color: #770909;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.c-m div {
+    height: 100px;
+    width: 100px;
+    color: #FFF;
+    background-color: #961212;
+    border-radius: 50%;
+    border: 12px solid #770909;
+}
+
+.titulos {
+    background-image: url(/imagenes/mano-recogiendo-cafe.jpg);
+    height: 600px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.texto-titulos h5 {
+    color: #961212;
+    text-align: center;
+    padding-top: 50%;
+    font-size: 15px;
+    font-family: Lora;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0%;
+}
+
+.texto-titulos h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.txt-introductorio p {
+    color: #8A7F7F;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 40px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.txt-introductorio {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.info-m h5 {
+    background-color: #960B19;
+    border-radius: 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FFF;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.info-m p {
+    color: #770909;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.info-g h5 {
+    background-color: #960B19;
+    border-radius: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FFF;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.info-g p {
+    color: #770909;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+div .c2 {
+    background-color: #750A15;
+}
+
+.ejes-estrategicos {
+    text-align: center;
+    background-color: #FDF3E8;
+    padding: 50px;
+}
+
+.ejes-estrategicos img {
+    width: 250px;
+}
+
+.certificaciones {
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.certificaciones h5 {
+    color: #961212;
+    font-family: Mukta Vaani;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 110%;
+    margin-bottom: 0%;
+}
+
+.certificaciones h2 {
+    color: #401116;
+    font-family: Mukta Vaani;
+    width: 500;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0%;
+}
+
+.certificaciones p {
+    color: #8A7F7F;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+
+
+.prin {
+    width: 200px;
+    height: 200px;
+    background-color: #FFF;
+    border-radius: 50%;
+    border: 15px solid #770909;
+    margin-bottom: 50px;
+    margin-left: 27%;
+    margin-right: 20%;
+}
+
+.prin h2 {
+    color: #770909;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-top: 50px;
+}
+
+.numeros div {
+    color: #FFF;
+    display: block;
+    font-family: Hind Madurai;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    background-color: #770909;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.numeros {
+    display: block;
+}
+
+.numeros p {
+    margin-top: 2%;
+    margin-bottom: 30px;
+    color: #770909;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.que-imp-empresa-b {
+    background: #961212;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 50px
+}
+
+.que-imp-empresa-b h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.que-imp-empresa-b p {
+    color: #FFF;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+}
+
+.c-empresa-b {
+    margin-top: 70px;
+    margin-right: 90px;
+}
+
+.c-empresa-b li {
+    border-radius: 58.5px;
+    background: #961212;
+    color: #FFF;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding: 30px 20px 30px 20px;
+    margin-top: 30px;
+    margin-left: 70px;
+}
+
+.ul .c-empresa-b li {
+    list-style-type: circle;
+}
+
+.txt-c-empresa-b p {
+    color: #8A7F7F;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 70px;
+}
+
+.circulo {
+    background-color: #961212;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    float: left;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.boton {
+    margin: 70px;
+    text-align: center;
+}
+
+.boton .fondo {
+    background-color: #961212;
+    border-radius: 12px;
+    padding: 20px 30px 20px 30px;
+}
+
+.boton .fondo a {
+    text-decoration: none;
+    color: #FFF;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+.boton :hover {
+    background-color: #770909;
+}
+
+.banner-h {
+    background-image: url(/imagenes/Gallina-blanca.jpg);
+    height: 300px;
+    width: 100%;
+    background-position: 50% 50%;
+    background-size: cover;
+}
+
+.texto-h img {
+    width: 400px;
+    height: auto;
+    margin-left: 37%;
+}
+
+.texto-h {
+    width: 100%;
+    height: auto;
+}
+
+.fondo-banner-h h2 {
+    color: #FFF;
+    font-family: Lora;
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 104.5%;
+}
+
+.fondo-banner-h {
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 40px;
+}
+
+.texto-h p {
+    padding-bottom: 50px;
+    color: #8A7F7F;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 70px;
+}
+
+.texto-h img {
+    margin-left: 10%;
+}
+
+.sellos h2 {
+    background-color: #961212;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-family: Lora;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #FFF;
+}
+
+.sellos h4 {
+    background-color: #961212;
+    border-radius: 12px;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: #FFF;
+    font-family: Lora;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-align: center;
+}
+
+.sellos p {
+    color: #8A7F7F;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 70px;
+}
+
+.lista {
+    color: #8A7F7F;
+    text-align: left;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 70px;
+}
+
+.lista li {
+    margin-bottom: 15px;
+}
+
+.img-producto {
+    padding-top: 20px;
+    background-color: #FDF3E8;
+    height: 500px;
+}
+
+.img-producto img {
+    width: 150px;
+    margin-left: 35%;
+
+}
+
+.img-producto p {
+    color: #961212;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/* footer */
+
+.footer {
+    background-color: #000000;
+    margin-top: 0;
+    display: flex-wrap;
+}
+
+.footer-contenedor {
+    width: 90%;
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logotipo-contenedor {
+    width: 30%;
+    margin: 5px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.logotipo-contenedor img {
+    display: block;
+    margin: 0 auto;
+}
+
+.contenedor-infolegal {
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+span.contacto-footer {
+    padding-bottom: 10px;
+}
+
+.contacto-footer {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+span.legal {
+    padding-bottom: 10px;
+}
+
+.legal {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal;
+}
+
+p.legal-texto-footer {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.legal-texto-footer {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.b-menu ul {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+.footer .b-menu ul li a {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+
+.b-menu li {
+    padding: 0px 0px 15px 0px;
+    text-align: center;
+}
+
+/*Estilos para tablet*/
+
+@media screen and (min-width: 768px) {
+    .imp-empresa-b {
+        height: 500px;
+    }
+
+    .fondo-circular {
+        height: 300px;
+        width: 300px;
+    }
+
+    .que-imp h2 {
+        font-size: 30px;
+        margin-top: 35%;
+    }
+
+    .c-m {
+        display: flex;
+        margin-left: 22%;
+        margin-right: 8%;
+
+    }
+
+    .c-m h4 {
+        font-size: 40px;
+        font-weight: 700;
+        margin-top: 20%;
+    }
+
+    .c-m p {
+        margin-top: 50%;
+        color: #770909;
+        text-align: center;
+        font-family: Hind Madurai;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .c-m div {
+        height: 100px;
+        width: 100px;
+        color: #FFF;
+        background-color: #961212;
+        border-radius: 50%;
+        border: 12px solid #770909;
+    }
+
+    .texto-titulos h5 {
+        padding-top: 40%;
+        font-size: 36px;
+        margin: 0;
+    }
+
+    .texto-titulos h1 {
+        font-size: 55px;
+        padding-top: 0;
+        margin: 0;
+    }
+
+    .texto-titulos {
+        margin: 0;
+    }
+
+    .txt-introductorio p {
+        font-size: 24PX;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .info-mediana {
+        display: flex;
+    }
+
+    .info-m {
+        padding-left: 20px;
+    }
+
+    .info-g {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+
+    .certificaciones {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    .certificaciones h2 {
+        font-size: 67px;
+    }
+
+    .certificaciones p {
+        font-size: 24PX;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .prin {
+        margin-left: 37%;
+    }
+
+    .numeros div {
+        margin-left: 45%;
+        margin-right: 55%;
+        width: 100px;
+        height: 100px;
+    }
+
+    .que-imp-empresa-b {
+        padding-top: 70px;
+    }
+
+    .que-imp-empresa-b h2 {
+        font-size: 45px;
+        padding-bottom: 30px;
+    }
+
+    .que-imp-empresa-b p {
+        font-size: 24px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .circulo {
+        float: left;
+    }
+
+    .txt-c-empresa-b p {
+        font-size: 24px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .fondo-banner-h h2 {
+        font-size: 56px;
+        padding-top: 90px;
+        padding-right: 50%;
+    }
+
+    .banner-h {
+        height: 500px;
+        width: 100%;
+    }
+
+    .texto-h p {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        font-size: 24px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .texto-h img {
+        margin-left: 25%;
+    }
+
+    .boton {
+        margin: 70px;
+        text-align: center;
+    }
+
+    .boton .fondo {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .sellos h2 {
+        font-size: 64px;
+        padding-top: 60px;
+        padding-bottom: 30px;
+    }
+
+    .sellos h4 {
+        font-size: 36px;
+        border-radius: 30px;
+        margin-right: 15%;
+        margin-left: 15%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .sellos p {
+        font-size: 24px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .lista {
+        margin-left: 150px;
+        margin-right: 150px;
+        padding-bottom: 30px;
+    }
+
+    .lista li {
+        font-size: 24px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .img-producto {
+        padding-top: 20px;
+        height: 700px;
+    }
+
+    .img-producto p {
+        font-size: 32px;
+    }
+
+    .img-producto img {
+        width: 200px;
+        margin-left: 37%;
+    }
+}
+
+/*Estilos web*/
+@media screen and (min-width: 1280px) {
+    .imp-empresa-b {
+        height: 500px;
+    }
+
+    .fondo-circular {
+        height: 400px;
+        width: 400px;
+        margin-left: 30%;
+    }
+
+    .que-imp h2 {
+        font-size: 45px;
+        margin-top: 40%;
+    }
+
+    .c-m {
+        margin-top: 30px;
+        display: flex;
+        margin-left: 30%;
+        margin-right: 8%;
+
+    }
+
+    .c-m h4 {
+        font-size: 40px;
+        font-weight: 700;
+        margin-top: 20%;
+    }
+
+    .c-m p {
+        margin-top: 50%;
+        color: #770909;
+        text-align: center;
+        font-family: Hind Madurai;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .c-m div {
+        height: 100px;
+        width: 100px;
+        color: #FFF;
+        background-color: #961212;
+        border-radius: 50%;
+        border: 12px solid #770909;
+    }
+
+    .txt-introductorio p {
+        padding-top: 10%;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-bottom: 30px;
+        font-size: 32px;
+    }
+
+    .texto-titulos h5 {
+        padding-top: 0%;
+        text-align: end;
+        padding-top: 30%;
+        padding-right: 80px;
+    }
+
+    .texto-titulos h1 {
+        font-size: 96px;
+        text-align: end;
+        margin-right: 80px;
+    }
+
+    .titulos {
+        height: 800px;
+        background-position: 60% 50%;
+    }
+
+    .info-m {
+        padding-left: 20%;
+        padding-right: 20%;
+    }
+
+    .info-g {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .ejes-estrategicos {
+        padding-top: 10%;
+        padding-bottom: 10%;
+        display: flex;
+    }
+
+    .info-mediana {
+        display: block;
+        margin-left: 40px;
+    }
+
+    .info-grande {
+        margin-left: 40px;
+    }
+
+    .info-m .info-g {
+        display: block;
+    }
+
+    .ejes-estrategicos img {
+        width: 520px;
+        margin-left: 5%;
+    }
+
+    .ejes-estrategicos h5 {
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+
+    .imp-empresa-b {
+        margin-left: 10%;
+        margin-bottom: 10%;
+    }
+
+    .numeros p {
+        margin-top: 20px;
+        width: 100%;
+    }
+
+    .numeros {
+        display: flex;
+        width: 150px;
+        margin-left: 10%;
+        text-align: center;
+    }
+
+    .numeros div {
+        display: block;
+    }
+
+    .certificaciones p {
+        padding-top: 5%;
+        padding-bottom: 40px;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-bottom: 30px;
+        font-size: 32px;
+    }
+
+    .que-imp-empresa-b p {
+        padding-top: 10%;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-bottom: 50px;
+        font-size: 32px;
+    }
+
+    .c-empresa-b {
+        padding-right: 15%;
+        padding-left: 20%;
+    }
+
+    .c-empresa-b li {
+        font-size: 32px;
+    }
+
+    .txt-c-empresa-b p {
+        padding-top: 10%;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-bottom: 50px;
+        font-size: 32px;
+    }
+
+    .fondo-banner-h h2 {
+        font-size: 96px;
+        padding-top: 15%;
+        padding-right: 50%;
+    }
+
+    .banner-h {
+        height: 900px;
+        width: 100%;
+    }
+
+    .sellos h2 {
+        font-size: 64px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .sellos h4 {
+        font-size: 36px;
+        border-radius: 30px;
+        margin-right: 15%;
+        margin-left: 15%;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .sellos p {
+        font-size: 24px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .texto-h p {
+        padding-top: 20px;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-bottom: 50px;
+        font-size: 32px;
+    }
+
+    .texto-h img {
+        margin-left: 30%;
+        width: 600px;
+    }
+
+    .sellos h2 {
+        font-size: 100px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .sellos h4 {
+        font-size: 60px;
+        border-radius: 50px;
+    }
+
+    .sellos p {
+        padding-top: 20px;
+        padding-left: 15%;
+        padding-right: 15%;
+        padding-bottom: 50px;
+        font-size: 32px;
+    }
+
+    .boton .fondo {
+        margin-left: 35%;
+        margin-right: 35%;
+    }
+
+    .boton .fondo a {
+        font-size: 20px;
+    }
+
+    .lista {
+        padding-right: 20%;
+        padding-left: 20%;
+    }
+
+    .img-producto {
+        padding-top: 20px;
+        height: 900px;
+    }
+
+    .img-producto p {
+        font-size: 32px;
+    }
+
+    .img-producto img {
+        width: 300px;
+        margin-left: 40%;
+    }
+
+    /* FOOTER */
+
+    .b-menu ul {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+    }
+
+
+    .footer .b-menu ul li a {
+        color: #FFEFE3;
+        text-align: center;
+        font-family: Lora;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-decoration: none;
+        justify-content: center;
+        justify-content: space-between;
+        display: flex;
+    }
+
+    .b-menu li {
+        padding: 15px 30px 15px 30px;
+        text-align: center;
+    }
+
+    .footer {
+        flex-wrap: none;
+    }
+
+    .footer-contenedor {
+        width: 67%;
+        padding-bottom: 20px;
+    }
+
+    p.legal-texto-footer::after {
+        content: " Integración de Sistemas tecnológicos II, Profesor: Gilberto Duque Ulloa, Octubre 02 de 2023";
+        width: 70%;
+        line-height: 20px;
+    }
+}
+
+
+/*NUESTRA CULTURA*/
+/*Estilos móvil*/
+
+.titulos-b {
+    background-image: url(/imagenes/mano-sosteniendo-taza.png);
+    height: 300px;
+    background-size: cover;
+    background-position: 63% 50%;
+    padding-top: 40%;
+}
+
+.texto-titulos-b {
+    text-align: center;
+
+}
+
+.titulos-b h5 {
+    color: #D51024;
+    text-align: center;
+    font-family: Lora;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 0%;
+}
+
+.titulos-b h1 {
+    margin-top: 2%;
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 96.5%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.texto-in-b {
+    color: #8A7F7F;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.lider {
+    background-color: #961212;
+    padding: 50px 20px 50px 20px;
+}
+
+.lider div {
+    display: flex;
+}
+
+.lider img {
+    width: 350px;
+    height: 350px;
+    margin-left: 6.4%;
+    margin-top: 13%;
+}
+
+.horizontal {
+    display: flex;
+}
+
+.lider h2 {
+    margin: 0%;
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.lider h5 {
+    margin-top: 0;
+    margin-bottom: 70px;
+    color: #FFEFE3;
+    font-family: Mukta Vaani;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+}
+
+.lider ul {
+    width: 80%;
+}
+
+.lider ul li {
+    list-style-type: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+    border: 4px solid #FFEFE3;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.trabajar-nosotros h2 {
+    color: #961212;
+    text-align: center;
+    font-family: Lora;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 102.5%;
+}
+
+.trabajar-nosotros h5 {
+    background-color: #961212;
+    padding: 20px 20px 20px 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    border-radius: 50px;
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.img-pq {
+    display: flex;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.img-pq img {
+    width: 210px;
+    height: auto;
+    margin-left: 15px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.tira-roja {
+    background-color: #961212;
+    padding: 50px;
+}
+
+.tira {
+    background-color: #961212;
+}
+
+.parte-equipo {
+    background-image: url(/imagenes/granos-cafe-patron.jpg);
+    height: auto;
+    width: 100%;
+    background-size: contain;
+    background-repeat: repeat;
+    margin-bottom: 50px;
+}
+
+.cuadro {
+    background-color: #961212;
+    padding-top: 50px;
+    margin: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.cuadro h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 30px;
+}
+
+.cuadro p {
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.boton-b {
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 50px;
+}
+
+.boton-b div {
+    background-color: #961212;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 50px;
+}
+
+.boton-b :hover {
+    background-color: #770909;
+}
+
+.boton-b a {
+    text-decoration: none;
+    color: #FFF;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+/* footer */
+
+.footer {
+    background-color: #000000;
+    margin-top: 0;
+    display: flex-wrap;
+}
+
+.footer-contenedor {
+    width: 90%;
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logotipo-contenedor {
+    width: 30%;
+    margin: 5px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.logotipo-contenedor img {
+    display: block;
+    margin: 0 auto;
+}
+
+.contenedor-infolegal {
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+span.contacto-footer {
+    padding-bottom: 10px;
+}
+
+.contacto-footer {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+span.legal {
+    padding-bottom: 10px;
+}
+
+.legal {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal;
+}
+
+p.legal-texto-footer {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.legal-texto-footer {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.b-menu ul {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+.footer .b-menu ul li a {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+
+.b-menu li {
+    padding: 0px 0px 15px 0px;
+    text-align: center;
+}
+
+/*Estilos para tablet*/
+
+@media screen and (min-width: 768px) {
+    .titulos-b {
+        padding-top: 15%;
+    }
+
+    .titulos-b h5 {
+        font-size: 15px;
+        margin-top: 0%;
+    }
+
+    .titulos-b h1 {
+        font-size: 52px;
+        margin-top: 0%;
+    }
+
+    .texto-in-b {
+        font-size: 24px;
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .lider h2 {
+        font-size: 81px;
+    }
+
+    .lider h5 {
+        font-size: 27px;
+    }
+
+    .lider ul {
+        margin-right: 10%;
+        margin-left: 10%;
+        padding-left: 0%;
+    }
+
+    .img-pq img {
+        width: 383px;
+        height: auto;
+        margin-left: 15px;
+        border-radius: 15px;
+        overflow: hidden;
+    }
+
+    .trabajar-nosotros h5 {
+        margin-left: 10%;
+        margin-right: 10%;
+        font-size: 30px;
+    }
+
+    .lider {
+        background-color: #961212;
+        padding: 50px 0 50px 20px;
+    }
+
+    .lider img {
+        width: 350px;
+        height: 350px;
+        margin-left: 6.4%;
+        margin-top: 1%;
+    }
+
+    .horizontal {
+        display: flex;
+    }
+
+    .lider h2 {
+        margin: 0%;
+        color: #FFF;
+        text-align: center;
+        font-family: Lora;
+        font-size: 81px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .lider h5 {
+        margin-top: 0;
+        margin-bottom: 70px;
+        color: #FFEFE3;
+        font-family: Mukta Vaani;
+        font-size: 27px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-align: center;
+    }
+
+    .lider ul li {
+        list-style-type: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        border-radius: 50px;
+        border: 4px solid #FFEFE3;
+        margin-right: 30px;
+        margin-bottom: 20px;
+        color: #FFF;
+        text-align: center;
+        font-family: Lora;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    }
+
+    .trabajar-nosotros h2 {
+        font-size: 70px;
+        margin-top: 15%;
+        margin-bottom: 15%;
+    }
+
+    .trabajar-nosotros h5 {
+        font-size: 30px;
+    }
+
+    .cuadro {
+        padding-bottom: 50px;
+    }
+
+    .cuadro h2 {
+        font-size: 40px;
+    }
+
+    .cuadro p {
+        font-size: 20px;
+    }
+
+    .boton-b {
+        padding-bottom: 10px;
+    }
+
+}
+
+/*Estilos web*/
+@media screen and (min-width: 1280px) {
+    .titulos-b {
+        padding-top: 20%;
+        padding-bottom: 20%;
+    }
+
+    .titulos-b h5 {
+        font-size: 40px;
+        text-align: left;
+        margin-left: 5%;
+    }
+
+    .titulos-b h1 {
+        font-size: 100px;
+        margin-right: 95%;
+        margin-left: 5%;
+        margin-top: 0%;
+    }
+
+    .texto-in-b {
+        font-size: 32px;
+        margin-left: 20%;
+        margin-right: 20%;
+    }
+
+    .lider {
+        padding: 90px 0 90px 0;
+    }
+
+    .lider h2 {
+        font-size: 129px;
+    }
+
+    .lider h5 {
+        font-size: 35px;
+    }
+
+    .lider ul {
+        margin-right: 10%;
+    }
+
+    .lider ul li {
+        font-size: 35px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-bottom: 50px;
+        border-radius: 50px;
+        border: 10px solid #FFEFE3;
+    }
+
+    .lider img {
+        width: 550px;
+        height: 550px;
+        margin-left: 6.4%;
+        margin-top: 5%;
+    }
+
+    .img-pq {
+        margin-left: 10%;
+        margin-right: 10%;
+    }
+
+    .img-pq img {
+        width: 600px;
+        border-radius: 50px;
+    }
+
+    .trabajar-nosotros h2 {
+        margin-top: 10%;
+        margin-bottom: 10%;
+    }
+
+    .trabajar-nosotros h5 {
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-bottom: 70px;
+    }
+
+    .cuadro {
+        display: flex;
+        padding-right: 10%;
+        padding-left: 10%;
+        margin-right: 10%;
+        margin-left: 10%;
+    }
+
+    .cuadro h2 {
+        font-size: 80px;
+        padding-top: 5%;
+        text-align: right;
+    }
+
+    .cuadro p {
+        padding-left: 20%;
+        font-size: 32px;
+        text-align: left;
+    }
+
+    .boton-b div {
+        background-color: #961212;
+        margin-left: 20%;
+        margin-right: 20%;
+        padding-top: 30px;
+        padding-bottom: 30px;
+        border-radius: 50px;
+    }
+
+    .boton-b a {
+        font-size: 40px;
+    }
+
+    /* FOOTER */
+
+    .b-menu ul {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+    }
+
+
+    .footer .b-menu ul li a {
+        color: #FFEFE3;
+        text-align: center;
+        font-family: Lora;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        text-decoration: none;
+        justify-content: center;
+        justify-content: space-between;
+        display: flex;
+    }
+
+    .b-menu li {
+        padding: 15px 30px 15px 30px;
+        text-align: center;
+    }
+
+    .footer {
+        flex-wrap: none;
+    }
+
+    .footer-contenedor {
+        width: 67%;
+        padding-bottom: 20px;
+    }
+
+    p.legal-texto-footer::after {
+        content: " Integración de Sistemas tecnológicos II, Profesor: Gilberto Duque Ulloa, Octubre 02 de 2023";
+        width: 70%;
+        line-height: 20px;
+    }
+}
+
+/*Carrito de compra*/
+/*Estilos móvil*/
+.banner-cc {
+    background-image: url(/imagenes/cliente-y-trabajador.jpg);
+    background-size: cover;
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.banner-cc h5 {
+    color: #961212;
+    text-align: center;
+    padding-top: 30%;
+    font-size: 15px;
+    font-family: Lora;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.banner-cc h1 {
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0%;
+}
+
+.slider {
+    background-color: #961212;
+    height: 350px;
+    padding-bottom: 15%;
+    padding-top: 5%;
+}
+
+.slider h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Lora;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 20px
+}
+
+.productos-sugeridos div img {
+    width: 150px;
+    margin-left: 20%;
+    border-radius: 50px;
+}
+
+.productos-sugeridos div p {
+    color: #961212;
+    text-align: center;
+    font-family: Lora;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-top: 0%;
+}
+
+.productos-sugeridos div img:hover {
+    filter: brightness(80%);
+}
+
+.carro-t {
+    color: #961212;
+    text-align: center;
+    font-family: Lora;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.tu-carro div a {
+    margin-left: 42.5%;
+    text-decoration: none;
+    font-family: Hind Madurai;
+    background-color: #FFEFE3;
+    color: #961212;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 5px;
+}
+
+.tu-carro div a:hover {
+    background-color: #bbbbbb;
+}
+
+.tu-carro div p {
+    margin-top: 3px;
+}
+
+.boton-c {
+    background-color: #FDF3E8;
+    height: 30px;
+    width: 80px;
+    margin-left: 42%;
+    padding-top: 10px;
+    text-align: center;
+    border-radius: 15px;
+    font-family: Hind Madurai;
+    font-weight: 700;
+}
+
+.slider a {
+    color: #961212;
+    text-decoration: none;
+}
+
+.boton-c:hover {
+    background-color: #770909;
+}
+
+.boton-c a:hover {
+    color: #FFF;
+}
+
+.tu-carro {
+    height: 100%;
+    display: block;
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+.tu-carro div {
+    height: 400px;
+    width: 400px;
+    background-color: #961212;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+}
+
+.tu-carro p {
+    color: #FFF;
+    text-align: center;
+    font-family: Hind Madurai;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 4px;
+    margin-top: 3%;
+}
+
+.tu-carro div img {
+    height: 250px;
+    margin-left: 75px;
+    margin-top: 40px;
+    border-radius: 15px;
+}
+
+.tu-carro div:hover {
+    background-color: #770909;
+}
+
+.info-envios {
+    background-color: #FFEFE3;
+    height: 100%;
+    display: flex;
+    padding: 50px;
+}
+
+.info-envios h2 {
+    color: #770909;
+    text-align: right;
+    font-family: Lora;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-right: 25px;
+    margin-top: 8%;
+}
+
+.info-envios p {
+    color: #961212;
+    font-family: Hind Madurai;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: left;
+}
+
+.info-envios p strong {
+    font-size: 17px;
+}
+
+.tira-roja-logo {
+    height: 300px;
+    background-color: #961212;
+}
+
+/* footer */
+
+.footer {
+    background-color: #000000;
+    margin-top: 0;
+    display: flex-wrap;
+}
+
+.footer-contenedor {
+    width: 90%;
+    margin: auto;
+    padding-top: 30px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logotipo-contenedor {
+    width: 30%;
+    margin: 5px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.logotipo-contenedor img {
+    display: block;
+    margin: 0 auto;
+}
+
+.contenedor-infolegal {
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+span.contacto-footer {
+    padding-bottom: 10px;
+}
+
+.contacto-footer {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+span.legal {
+    padding-bottom: 10px;
+}
+
+.legal {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal;
+}
+
+p.legal-texto-footer {
+    width: 100%;
+    padding-bottom: 30px;
+}
+
+.legal-texto-footer {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 14px;
+    font-style: italic;
+    font-weight: 600;
+    line-height: normal;
+}
+
+
+.b-menu ul {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+.footer .b-menu ul li a {
+    color: #FFEFE3;
+    text-align: center;
+    font-family: Lora;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: none;
+    justify-content: center;
+    justify-content: space-between;
+
+}
+
+.b-menu li {
+    padding: 0px 0px 15px 0px;
+    text-align: center;
+}
+
+/*Estilos para tablet*/
+@media screen and (min-width: 768px) {
+    .banner-cc {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .banner-cc h5 {
+        padding-top: 40%;
+        font-size: 36px;
+    }
+
+    .banner-cc h1 {
+        font-size: 55px;
+    }
+
+    .productos-sugeridos div img {
+        width: 230px;
+        margin-left: 23.5%;
+
+    }
+
+    .slider {
+        background-color: #961212;
+        height: 450px;
+    }
+
+    .boton-c {
+        margin-left: 46%;
+    }
+
+    .tu-carro {
+        margin-left: 25%;
+        margin-bottom: 50px;
+    }
+
+    .info-envios {
+        display: block;
+        text-align: center;
+        padding-bottom: 15%;
+    }
+
+    .info-envios h2 {
+        font-size: 70px;
+        text-align: center;
+        margin-right: 0;
+    }
+
+    .info-envios p {
+        font-size: 20px;
+        text-align: center;
+    }
+
+    .info-envios p strong {
+        font-size: 30px;
+        text-align: center;
+    }
+
+
+    /*Estilos web*/
+    @media screen and (min-width: 1280px) {
+        .banner-cc {
+            width: 100%;
+            padding-bottom: 20px;
+            padding-left: 50px;
+        }
+
+        .banner-cc h5 {
+            padding-top: 40%;
+            font-size: 55px;
+            text-align: left;
+        }
+
+        .banner-cc h1 {
+            font-size: 90px;
+            text-align: left;
+        }
+
+        .productos-sugeridos div img {
+            width: 450px;
+            margin-left: 29%;
+
+        }
+
+        .slider h2 {
+            font-size: 70px;
+            margin-bottom: 50px;
+        }
+
+        .slider {
+            background-color: #961212;
+            height: 800px;
+        }
+
+        .boton-c {
+            font-size: 30px;
+            margin-left: 42%;
+            height: 50px;
+            width: 200px;
+        }
+
+        .tu-carro {
+            display: flex;
+            margin-left: 1.5%;
+            margin-bottom: 50px;
+        }
+
+        .info-envios {
+            display: block;
+            text-align: center;
+            padding-bottom: 15%;
+        }
+
+        .info-envios h2 {
+            font-size: 70px;
+            text-align: center;
+            margin-right: 0;
+        }
+
+        .info-envios p {
+            font-size: 20px;
+            text-align: center;
+        }
+
+        .info-envios p strong {
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .tu-carro div {
+            width: 700px;
+            height: 500px;
+            margin-right: 30px;
+        }
+
+        .tu-carro div img {
+            height: 300px;
+            margin-left: 81px;
+            margin-right: 30px;
+        }
+
+        .tu-carro p {
+            font-size: 20px;
+        }
+
+        .tu-carro div a {
+            padding-left: 30px;
+            padding-right: 30px;
+            font-size: 20px;
+            margin-left: 36%;
+        }
+
+        .carro-t {
+            font-size: 40px;
+            font-style: normal;
+            font-weight: 700;
+        }
+
+        .info-envios {
+            height: 400px;
+            padding-bottom: 50px;
+        }
+
+        .info-envios h2 {
+            font-size: 70px;
+        }
+
+        .info-envios p {
+            font-size: 20px;
+            text-align: center;
+        }
+
+        .info-envios p strong {
+            font-size: 25px;
+        }
+        .tira-roja-logo {
+            height: 100px;
+        }
+        /* FOOTER */
+
+        .b-menu ul {
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            display: flex;
+        }
+
+
+        .footer .b-menu ul li a {
+            color: #FFEFE3;
+            text-align: center;
+            font-family: Lora;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            text-decoration: none;
+            justify-content: center;
+            justify-content: space-between;
+            display: flex;
+        }
+
+        .b-menu li {
+            padding: 15px 30px 15px 30px;
+            text-align: center;
+        }
+
+        .footer {
+            flex-wrap: none;
+        }
+
+        .footer-contenedor {
+            width: 67%;
+            padding-bottom: 20px;
+        }
+
+        p.legal-texto-footer::after {
+            content: " Integración de Sistemas tecnológicos II, Profesor: Gilberto Duque Ulloa, Octubre 02 de 2023";
+            width: 70%;
+            line-height: 20px;
+        }
+
+        
+    }
+}
