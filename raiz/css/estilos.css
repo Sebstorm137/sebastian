@@ -58,7 +58,7 @@ body {
 }
 
 .titulos {
-    background-image: url(/imagenes/mano-recogiendo-cafe.jpg);
+    background-image: url(/raiz/imagenes/mano-recogiendo-cafe.jpg);
     height: 600px;
     background-size: cover;
     background-position: 50% 50%;
@@ -365,7 +365,7 @@ div .c2 {
 }
 
 .banner-h {
-    background-image: url(/imagenes/Gallina-blanca.jpg);
+    background-image: url(/raiz/imagenes/gallina-blanca.jpg);
     height: 300px;
     width: 100%;
     background-position: 50% 50%;
@@ -877,11 +877,11 @@ p.legal-texto-footer {
     }
 
     .txt-introductorio p {
-        padding-top: 10%;
+        padding-top: 5%;
         padding-left: 15%;
         padding-right: 15%;
         padding-bottom: 30px;
-        font-size: 32px;
+        font-size: 20px;
     }
 
     .texto-titulos h5 {
@@ -968,15 +968,15 @@ p.legal-texto-footer {
         padding-left: 15%;
         padding-right: 15%;
         padding-bottom: 30px;
-        font-size: 32px;
+        font-size: 20px;
     }
 
     .que-imp-empresa-b p {
-        padding-top: 10%;
+        padding-top: 0%;
         padding-left: 15%;
         padding-right: 15%;
         padding-bottom: 50px;
-        font-size: 32px;
+        font-size: 20px;
     }
 
     .c-empresa-b {
@@ -985,15 +985,15 @@ p.legal-texto-footer {
     }
 
     .c-empresa-b li {
-        font-size: 32px;
+        font-size: 20px;
     }
 
     .txt-c-empresa-b p {
-        padding-top: 10%;
+        padding-top: 0%;
         padding-left: 15%;
         padding-right: 15%;
-        padding-bottom: 50px;
-        font-size: 32px;
+        padding-bottom: 40px;
+        font-size: 20px;
     }
 
     .fondo-banner-h h2 {
@@ -1008,13 +1008,13 @@ p.legal-texto-footer {
     }
 
     .sellos h2 {
-        font-size: 64px;
+        font-size: 50px;
         padding-top: 30px;
         padding-bottom: 30px;
     }
 
     .sellos h4 {
-        font-size: 36px;
+        font-size: 25px;
         border-radius: 30px;
         margin-right: 15%;
         margin-left: 15%;
@@ -1023,7 +1023,7 @@ p.legal-texto-footer {
     }
 
     .sellos p {
-        font-size: 24px;
+        font-size: 20px;
         padding-left: 40px;
         padding-right: 40px;
     }
@@ -1033,7 +1033,7 @@ p.legal-texto-footer {
         padding-left: 15%;
         padding-right: 15%;
         padding-bottom: 50px;
-        font-size: 32px;
+        font-size: 20px;
     }
 
     .texto-h img {
@@ -1057,7 +1057,7 @@ p.legal-texto-footer {
         padding-left: 15%;
         padding-right: 15%;
         padding-bottom: 50px;
-        font-size: 32px;
+        font-size: 20px;
     }
 
     .boton .fondo {
@@ -1073,6 +1073,9 @@ p.legal-texto-footer {
         padding-right: 20%;
         padding-left: 20%;
     }
+    .lista li {
+        font-size: 20px;
+    }
 
     .img-producto {
         padding-top: 20px;
@@ -1080,7 +1083,7 @@ p.legal-texto-footer {
     }
 
     .img-producto p {
-        font-size: 32px;
+        font-size: 20px;
     }
 
     .img-producto img {
@@ -1139,7 +1142,7 @@ p.legal-texto-footer {
 /*Estilos móvil*/
 
 .titulos-b {
-    background-image: url(/imagenes/mano-sosteniendo-taza.png);
+    background-image: url(/raiz/imagenes/mano-sosteniendo-taza.png);
     height: 300px;
     background-size: cover;
     background-position: 63% 50%;
@@ -1148,6 +1151,7 @@ p.legal-texto-footer {
 
 .texto-titulos-b {
     text-align: center;
+    font-size: 20px;
 
 }
 
@@ -1307,7 +1311,7 @@ p.legal-texto-footer {
 }
 
 .parte-equipo {
-    background-image: url(/imagenes/granos-cafe-patron.jpg);
+    background-image: url(/raiz/imagenes/granos-cafe-patron.jpg);
     height: auto;
     width: 100%;
     background-size: contain;
@@ -1364,6 +1368,8 @@ p.legal-texto-footer {
 
 .boton-b :hover {
     background-color: #770909;
+    text-decoration: none;
+    color: #FFF;
 }
 
 .boton-b a {
@@ -1648,7 +1654,7 @@ p.legal-texto-footer {
     }
 
     .texto-in-b {
-        font-size: 32px;
+        font-size: 20px;
         margin-left: 20%;
         margin-right: 20%;
     }
@@ -1658,11 +1664,11 @@ p.legal-texto-footer {
     }
 
     .lider h2 {
-        font-size: 129px;
+        font-size: 100px;
     }
 
     .lider h5 {
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .lider ul {
@@ -1670,7 +1676,7 @@ p.legal-texto-footer {
     }
 
     .lider ul li {
-        font-size: 35px;
+        font-size: 20px;
         padding-top: 10px;
         padding-bottom: 10px;
         padding-left: 30px;
@@ -1717,28 +1723,30 @@ p.legal-texto-footer {
     }
 
     .cuadro h2 {
-        font-size: 80px;
+        font-size: 40px;
         padding-top: 5%;
         text-align: right;
+        width: 500px;
     }
 
     .cuadro p {
-        padding-left: 20%;
-        font-size: 32px;
+        padding-left: 10%;
+        font-size: 20px;
         text-align: left;
+        padding-top: 13%;
     }
 
     .boton-b div {
         background-color: #961212;
-        margin-left: 20%;
-        margin-right: 20%;
+        margin-left: 30%;
+        margin-right: 30%;
         padding-top: 30px;
         padding-bottom: 30px;
         border-radius: 50px;
     }
 
     .boton-b a {
-        font-size: 40px;
+        font-size: 20px;
     }
 
     /* FOOTER */
@@ -1790,7 +1798,7 @@ p.legal-texto-footer {
 /*Carrito de compra*/
 /*Estilos móvil*/
 .banner-cc {
-    background-image: url(/imagenes/cliente-y-trabajador.jpg);
+    background-image: url(/raiz/imagenes/cliente-y-trabajador.jpg);
     background-size: cover;
     width: 100%;
     padding-bottom: 20px;
